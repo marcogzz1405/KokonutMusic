@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="indicatorRadius">8dp</dimen>
+    <dimen name="indicator_separation">7dp</dimen>
+
+    <dimen name="productPressedElevation">10dp</dimen>
+    <dimen name="productSelectedElevation">8dp</dimen>
+    <dimen name="productNoSelectedElevation">0dp</dimen>
+    <dimen name="elevation">2dp</dimen>
+
+    <dimen name="banner_spacing">-58dp</dimen>
+
+    <dimen name="margin">20dp</dimen>
+
+    <dimen name="final_toolbar_height">70dp</dimen>
+    <dimen name="initial_toolbar_height">100dp</dimen>
+
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">30dp</dimen>
+    <dimen name="margin_short">8dp</dimen>
+
+    <dimen name="title_container_height">52dp</dimen>
+    <dimen name="max_filter_card_radius">5dp</dimen>
+
+    <dimen name="toolbar_height">56dp</dimen>
+
+    <dimen name="circle_menu_long_radius">170dp</dimen>
+    <dimen name="circle_menu_radius">100dp</dimen>
+    <dimen name="circle_menu_short_radius">94dp</dimen>
+    <dimen name="circle_menu_touch_radius">50dp</dimen>
+    <dimen name="circle_menu_margin">50dp</dimen>
+    <dimen name="circle_menu_unselected_item_size">56dp</dimen>
+    <dimen name="circle_menu_selected_item_size">68dp</dimen>
+
+    <dimen name="margin_map_store">15dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="general_text">18sp</dimen>
+    <dimen name="activity_top_general">50dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+
+</resources>

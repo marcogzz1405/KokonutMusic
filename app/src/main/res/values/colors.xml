@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#181C26</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#8391ba</color>
+    <color name="rippleColor">#42FFFFFF</color>
+    <color name="lightColor">#eff2f7</color>
+    <color name="textColor">#0f1723</color>
+    <color name="disabledGray">#A6ADBA</color>
+    <color name="errorTextColor">#fc4d4d</color>
+    <color name="grayTextColor">#68717f</color>
+</resources>
